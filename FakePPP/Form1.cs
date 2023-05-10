@@ -5,8 +5,7 @@ namespace FakePPP
         public Form1()
         {
             InitializeComponent();
-            tbName.Text = "Name Holly";
-            label1.Text = "What";
+            tbName.Text = "Name Holle";
         }
     }
 }
